@@ -1,4 +1,4 @@
-# javascript_rpg_quiz_game
+# _javascript_rpg_quiz_game
 --------------------------
 
 A colorful, animated command line game using Node.js! Intended for younger students who may code in Javascript.
